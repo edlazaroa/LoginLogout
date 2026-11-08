@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sessió</string>
+
+    <string name="login_title">Iniciar sessió</string>
+    <string name="hint_user">Nom d\'usuari</string>
+    <string name="hint_password">Contrasenya</string>
+    <string name="btn_login">Iniciar sessió</string>
+    <string name="error_user">Introdueix el nom d\'usuari</string>
+    <string name="error_password">Introdueix la contrasenya</string>
+    <string name="toast_fill_fields">Cal emplenar tots els camps</string>
+
+    <string name="welcome_message">Benvingut/da,</string>
+    <string name="btn_logout">Tancar sessió</string>
+
+    <string name="goodbye_message">Adéu,</string>
+    <string name="goodbye_suffix">La sessió s\'ha tancat correctament.</string>
+    <string name="btn_back_login">Tornar al login</string>
+</resources>
